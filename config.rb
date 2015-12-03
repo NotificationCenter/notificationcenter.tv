@@ -14,3 +14,21 @@ end
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
+
+# S3 Syncing
+activate :s3_sync
+
+# CDN Invalidation
+activate :cdn do |cdn|
+  cdn.cloudflare = {
+    zone: 'notificationcenter.tv',
+    base_urls: [
+      'http://notificationcenter.tv',
+      'https://notificationcenter.tv',
+    ]
+  }
+end
+
+after_s3_sync do |files_by_status|
+  cdn_invalidate(files_by_status[:updated])
+end

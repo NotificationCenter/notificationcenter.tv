@@ -1,0 +1,14 @@
+language: ruby
+sudo: false
+cache:
+  bundler: true
+rvm:
+- 2.1.2
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - AWS_BUCKET=notificationcenter.tv
+script:
+- bundle exec rake build
+after_success:
+- bundle exec rake deploy:travis
