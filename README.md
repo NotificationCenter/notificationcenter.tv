@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/NotificationCenter/notificationcenter.tv.svg?branch=master)](https://travis-ci.org/NotificationCenter/notificationcenter.tv)
+
 NotificationCenter.tv
 =====================
 
