@@ -4,7 +4,7 @@ title: Notification Center
 
 <h1>Latest Episode</h1>
 
-<% data.podcast.episodes.last(1).each do |post| %>
+<% data.podcast.episodes.first(1).each do |post| %>
 	<section class="episode">
 		<h3 class="name">
 			<%= post.title %>

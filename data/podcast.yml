@@ -20,33 +20,33 @@ episodes:
   description: So Ash used the wrong microphone for a bit (to hilarious effect) and Tom is in New England. We talk about geography of the East Coast (it's riveting), Ash clears his throat a lot, we discuss our new iPhones 6, then we talk about Primer for a bit. Like, eventually. We kind of talk about a lot of things. It's a talk-heavy show, even for a talk show.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 19 – The Camera Show
   date: Sun, 21 Sep 2014 14:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode19.mp3
@@ -55,33 +55,33 @@ episodes:
   description: This week, we chat about NSSpain, image stabilization, autofocus, SLR technology – just photography stuff in general, really – functional programming in Swift, the Moon landing hoax, the gender gap in the software industry, and wrap up about Richard Dawkins. It's fun.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 18 – The Objective Reality Thing
   date: Sat, 13 Sep 2014 14:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode18.mp3
@@ -90,33 +90,33 @@ episodes:
   description: We're back this week after Ash's near-death cold. We banter for a while, discussing our various addictions, Dutch midrise elevators for-rent, and the weather (we're so sorry). But then we dive right in. We wrap up some talk on gender issues and GamerGate, whether or not an objective reality exists, time travel, the Standard Markdown kerfuffle, the Apple Watch, and negativity in the community.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 17 – Bush did the Red Wedding
   date: Sun, 31 Aug 2014 15:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode17.mp3
@@ -125,33 +125,33 @@ episodes:
   description: We begin with Follow Up. Lots of Follow Up. We talk Swift, Game of Thrones, Spaaaaaaace, Faux Pas (it's got an 'x' in it butcha don't pronounce it), comics, floating point number specifications, cracking Android devices remotely (heh), open source, Tom got married, hating on Malcom Gladwell, and even touch on USB security. Huzzah!
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 16 – I Don't Have a spec_helper.rb
   date: Tue, 05 Aug 2014 10:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode16.mp3
@@ -160,33 +160,33 @@ episodes:
   description: We start out this week by taking a short coffee break, talking about Swift, and marvelling at the sheer enormity of Apple revenues. Then we discuss new forms of super-malware before going down a rabit hole of comic books characters.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 15 – No One Wants to Kill Anyone
   date: Wed, 23 Jul 2014 10:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode15.mp3
@@ -195,33 +195,33 @@ episodes:
   description: Holy hiatuses, Batman! This week, we cover some long-overdue follow up, talk about Swift, that app documentary, and how much the world sucks right now. If you're into pop psych, look forward to our discussion of the Fundamental Attribution Error. Finally, we talk about the future of Art.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 14 – Season 2
   date: Mon, 30 Jun 2014 04:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode14.mp3
@@ -230,33 +230,33 @@ episodes:
   description: Ash and Tom are back! We're chatting about our little break, WWDC, Swift 'n stuff, engineering maturity, iOS 8, and other things. Oh, and Ash doesn't watch Game of Thrones.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 13 – Year of the iBeacon
   date: Tue, 06 May 2014 04:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode13.mp3
@@ -265,33 +265,33 @@ episodes:
   description: This week, we're talking about language trends, the FM meshnets, Aspect-Oriented Programming, and how Samsung is a dick. <br /><br />You can skip through to 1:10 to check out our review of <em>Scott Pilgrim's Precious Little Life</em>.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 12 – The On-Topic Episode
   date: Tue, 29 Apr 2014 04:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode12.mp3
@@ -300,33 +300,33 @@ episodes:
   description: This week, we briefly cover the feminism kerfuffle in tech last week, talk about GitHub alternatuves, meander around some tech news, and talk about designers (lol).
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 11 – FTL Morality
   date: Mon, 14 Apr 2014 04:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode11.mp3
@@ -335,33 +335,33 @@ episodes:
   description: This week, we're talking new iOS tools, AppCode and Xamarin, Heartbleed and ethics. We chat about 24, Akamai's super-awesome memory protection, cats, then go back to politics. We wrap up discussing deleting objects in Core Data and the pros and cons of filing radars.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 10 – The API Stack Thing
   date: Tue, 08 Apr 2014 18:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode10.mp3
@@ -370,33 +370,33 @@ episodes:
   description: This week we chat about Ash's trip to Paris, the WWDC raffle, Mozilla's CEO kerfuffle, sexism in tech, and diverge into dirty student politics. It's a brave new world.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 9 – The Episode that Never Shipped
   date: Mon, 31 Mar 2014 18:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode9.mp3
@@ -405,33 +405,33 @@ episodes:
   description: 
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 7 – The Improbable Project
   date: Sun, 16 Mar 2014 18:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode7.mp3
@@ -440,33 +440,33 @@ episodes:
   description: After exploring some basics of microphone technique, Ash and Tom discuss film development and transatlantic flights. Skip to 32 minutes to hear the discussion about the CocoaPods Bug Bash, how to prepare for an iOS job interview, and limiting yourself to just specifically vendored technologies.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 6 – The Freedom Timezone
   date: Tue, 11 Mar 2014 18:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode6.mp3
@@ -475,33 +475,33 @@ episodes:
   description: Ash and Tom discuss Ash's travels to America, the future of CocoaPods, and the ins and outs of using CocoaPods. They also chat about the 7.1 update to iOS and have a slight digression into photography. Ash apologizes for using the mic built-in to his laptop.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 5 – Not Necessarily Not, Either
   date: Sat, 01 Mar 2014 12:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode5.mp3
@@ -510,33 +510,33 @@ episodes:
   description: We kick it off oldschool with discussions about nerdy movie quotes, Xcode workflows, GitHub's hot new text editor, and Tim Cook telling off some nasty investors. Oh, and we bought Tom a new mic for next week. Stay tuned!
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 4 – Goto Fail
   date: Sat, 22 Feb 2014 12:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode4.mp3
@@ -545,33 +545,33 @@ episodes:
   description: Tom and Ash dive into the SSL problem faced by Core Foundation. How could the cluster-mess have been mitigated? What conspiracy theories are out there? We also talk about Objective-Cloud, the Queen, and ReactiveCocoa. Again.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 3 – Just Use Haskell
   date: Sat, 15 Feb 2014 12:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode3.mp3
@@ -580,33 +580,33 @@ episodes:
   description: This time, Tom and Ash talk shop about Objective-C. What's wrong with it? Why is a replacement necessary? We also look at prospective replacements for programming in general, including Facebook's Origami and Urbit.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 2 – Travelling Salesperson
   date: Sat, 08 Feb 2014 18:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode2.mp3
@@ -615,33 +615,33 @@ episodes:
   description: In our second episode, Tom and Ash discuss RubyMotion, Tom's new job, Core Data bugs, Computer Science, sexism on Hacker News, and some (gosh!) web dev stuff. We sure hope you can handle our scale.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
 - title: Episode 1 – Hello World
   date: Sat, 01 Feb 2014 13:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode1.mp3
@@ -650,30 +650,30 @@ episodes:
   description: In our inaugural episode, Ash and Tom chat about structuring modern Objective-C, OmniGraphSketcher, and other happenings in the open source community. After chatting about the most important skills for developers to have nowadays, they discuss the future of Objective-C.
   links:
   - text: Structuring Modern Objective-C
-    ref: http://ashfurrow.com/blog/structuring-modern-objective-c
+    href: http://ashfurrow.com/blog/structuring-modern-objective-c
   - text: OmniGraphSketcher
-    ref: https://github.com/graphsketcher/GraphSketcher
+    href: https://github.com/graphsketcher/GraphSketcher
   - text: Fucking Block Syntax
-    ref: http://fuckingblocksyntax.com
+    href: http://fuckingblocksyntax.com
   - text: Objective-C Libraries and Unix Philosophy
-    ref: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
+    href: http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy
   - text: 7 Deadly Sins of Modern Objective-C
-    ref: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
+    href: http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c
   - text: NSBlog by Mike Ash
-    ref: https://www.mikeash.com/pyblog/
+    href: https://www.mikeash.com/pyblog/
   - text: iCloud PhotoStream Specs
-    ref: http://support.apple.com/kb/HT4858
+    href: http://support.apple.com/kb/HT4858
   - text: A Dark Age of Objective-C
-    ref: http://5by5.tv/hypercritical/14
+    href: http://5by5.tv/hypercritical/14
   - text: Soulver
-    ref: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&uo=4&at=1l3v6zC
   - text: Wat
-    ref: https://www.destroyallsoftware.com/talks/wat
+    href: https://www.destroyallsoftware.com/talks/wat
   - text: Directed Acyclic Graph
-    ref: http://en.wikipedia.org/wiki/Directed_acyclic_graph
+    href: http://en.wikipedia.org/wiki/Directed_acyclic_graph
   - text: Repairing the CocoaPods Specs Repo
-    ref: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
+    href: http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/
   - text: Network Podcast Client
-    ref: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/network-podcasts-client/id723422355?mt=8&uo=4&at=1l3v6zC
   - text: Hatch
-    ref: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
+    href: https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&uo=4&at=1l3v6zC
