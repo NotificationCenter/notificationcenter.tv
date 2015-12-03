@@ -27,8 +27,5 @@ activate :cdn do |cdn|
       'https://notificationcenter.tv',
     ]
   }
-end
-
-after_s3_sync do |files_by_status|
-  cdn_invalidate(files_by_status[:updated])
+  cdn.after_build = true
 end
