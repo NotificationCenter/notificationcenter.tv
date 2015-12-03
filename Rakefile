@@ -18,6 +18,7 @@ namespace :deploy do
     end
 
     sh 'bundle exec middleman s3_sync'
+    sh 'bundle exec middleman cdn'
   end
 end
 

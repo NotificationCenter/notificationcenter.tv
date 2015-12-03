@@ -27,5 +27,4 @@ activate :cdn do |cdn|
       'https://notificationcenter.tv',
     ]
   }
-  cdn.after_build = true
 end
