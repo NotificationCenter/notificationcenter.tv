@@ -12,6 +12,33 @@ owner: Ash Furrow
 email: ash@ashfurrow.com
 author: Ash Furrow &amp; Tom Swizzlr
 episodes:
+- title: Episode 21 – They Lost the Repository
+  date: Sun, 29 Nov 2015 08:00:00 GMT
+  audio: http://cast.rocks/hosting/1957/episode21.mp3
+  file_length: 70936769
+  duration: "1:13:41"
+  description: Wow, so Ash and Tom are back after a year of hiatus! How exciting. Also Ash forgot to make sure he was recording off his proper mic, and Tom misplaces his proper mic, and they’re both very sorry. So this week, we chat about minimalism in apartments, Canada’s hot new PM, dwelling on the past, Swift compatibility, open source communities, dynamic languages, and networking abstractions. It’s an all-around good time. 
+  links:
+  - text: App launch time bug
+    href: https://github.com/artsy/eigen/issues/586
+  - text: Chris Lattner on Reddit
+    href: https://www.reddit.com/r/swift/comments/3kbjjn/so_swift_isnt_open_source_yet_then/cuwwub2
+  - text: Justin Trudeau Tweeting at the Queen
+    href: https://twitter.com/JustinTrudeau/status/670377158460731392
+  - text: Trudeau Metre
+    href: https://www.trudeaumetre.ca
+  - text: RxSwift
+    href: https://github.com/ReactiveX/RxSwift
+  - text: Perfect.org
+    href: http://perfect.org/
+  - text: Being Polite in Open Source
+    href: https://ashfurrow.com/blog/being-polite-in-open-source/
+  - text: An Illustrated Book of Bad Arguments
+    href: http://amzn.to/1Oo5Khv
+  - text: The End of Dynamic Languages
+    href: http://elbenshira.com/blog/the-end-of-dynamic-languages/
+  - text: Pagination in FRP
+    href: https://github.com/artsy/eidolon/blob/a93f9f67aca6b27996076b3042ea532b4fbb9fb5/Kiosk/Auction%20Listings/ListingsViewModel.swift#L96-L180
 - title: Episode 20 – I Don't Think We Have a Corkscrew
   date: Tue, 14 Oct 2014 08:00:00 GMT
   audio: http://static.ashfurrow.com/notificationcenter/episode20.mp3
