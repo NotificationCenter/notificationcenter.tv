@@ -5,19 +5,26 @@ title: Notification Center
 <h1>Latest Episode</h1>
 
 <% data.podcast.episodes.first(1).each do |post| %>
-	<section class="episode">
-		<h3 class="name">
-			<%= post.title %>
-		</h3>
-		<time>
-			<%= Date.parse(post.date).strftime('%A, %b %d') %>
-		</time>
-		<p>
-			<%= post.content %>
-		</p>
-		<audio controls preload="none" class="player">
-	 		<source src="<%= post.link %>" type="audio/mp4" />
-	 		<p>Your browser does not support HTML5 audio.</p>
-	 	</audio>
-	</section>
+  <section class="episode">
+    <h3 class="name">
+      <%= post.title %>
+    </h3>
+    <time>
+      <%= Date.parse(post.date).strftime('%A, %B %d') %>
+    </time>
+    <p>
+      <%= post.description %>
+    </p>
+    <ul>
+      <% post.links.each do |link| %>
+        <li>
+          <a href="<%= link['href']%>"><%= link['text']%></a>
+        </li>
+      <% end %>
+    </ul>
+    <audio controls preload="none" class="player" dataduration="<%= post.duration%>">
+      <source src="<%= post.audio %>" type="audio/mp4" />
+      <p>Your browser does not support HTML5 audio.</p>
+    </audio>
+  </section>
 <% end %>

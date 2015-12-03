@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-<!-- TODO: DOuble check against current feed. -->
+<rss  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
 	<channel>
 
 		<title>{{ data.podcast.title }}</title>
@@ -32,35 +32,50 @@
 
 		<itunes:image href="{{ data.podcast.icon }}" />
 
-		<itunes:category text="Technology" />
+		<itunes:category text="Technology">
+			<itunes:category text="Software How-To"/>
+			<itunes:category text="Tech News"/>
+		</itunes:category>
 
-		<itunes:category text="Software How-to" />
+		<atom:link href="http://www.notificationcenter.tv/feed.rss" rel="self" type="application/rss+xml" />
 
-		<itunes:new-feed-url>http://www.notificationceter.tv/rss.xml</itunes:new-feed-url>
-
-		{% for post in data.podcast.episodes limit:10 %}
+		{% for post in data.podcast.episodes %}
 
 		 	<item>
 
-				 <title>{{ post.title }}</title>
+				<title>{{ post.title }}</title>
 
-				 <itunes:author>Ash Furrow &amp; Tom Copley</itunes:author>
+				<itunes:author>Ash Furrow &amp; Tom Copley</itunes:author>
 
-				 <itunes:subtitle>{{ data.podcast.title }}: {{ post.title }}</itunes:subtitle>
+				<itunes:subtitle>{{ data.podcast.title }}: {{ post.title }}</itunes:subtitle>
 
-				 <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+				<description>{{ post.description | xml_escape }}</description>
 
-				 <itunes:image href="http://static.ashfurrow.com/notificationcenter/Icon.jpg" />
+				<itunes:image href="http://static.ashfurrow.com/notificationcenter/Icon.jpg" />
 
-				 <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+				<enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/x-m4a" />
 
-				 <guid isPermaLink="true">{{ post.link }}</guid>
+				<guid isPermaLink="true">{{ post.audio }}</guid>
 
-				 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }} GMT</pubDate>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }} GMT</pubDate>
 
-				 <itunes:duration>{{ post.duration }}</itunes:duration>
+				<itunes:duration>{{ post.duration }}</itunes:duration>
 
-				 <itunes:keywords>{{ data.podcast.keywords }}</itunes:keywords>
+				<itunes:keywords>{{ data.podcast.keywords }}</itunes:keywords>
+
+				<content:encoded>
+
+					&lt;p&gt;{{ post.description }}&lt;/p&gt;
+
+					&lt;ul&gt;
+					    {% for link in post.links %}
+							&lt;li&gt;
+								&lt;a href="{{link['href']}}"&gt;{{link['text']}}&lt;/a&gt;
+							&lt;/li&gt;
+					    {% endfor %}
+					  &lt;/ul&gt;
+
+				</content:encoded>
 
 			 </item>
 
