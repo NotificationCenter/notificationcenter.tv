@@ -28,3 +28,7 @@ activate :cdn do |cdn|
     ]
   }
 end
+
+after_s3_sync do |files_by_status|
+  cdn_invalidate(files_by_status[:updated])
+end
