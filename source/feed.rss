@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+	<channel>
+
+		<title>Notification Center</title>
+
+		<link>http://notificationcenter.tv/</link>
+
+		<language>en</language>
+
+		<copyright>&#xA9; 2014 Each week, Ash and Tom get together to discuss what's going on in the world of iOS. Come for the news, stay for the banter. </copyright>
+
+		<itunes:subtitle>Each week, Ash and Tom get together to discuss what's going on in the world of iOS. Come for the news, stay for the banter. </itunes:subtitle>
+
+		<itunes:author>Ash Furrow &amp; Tom Copley</itunes:author>
+
+		<itunes:keywords>ios,ipad,iphone,news,technology</itunes:keywords>
+
+		<itunes:explicit>yes</itunes:explicit>
+
+		<itunes:summary>Each week, Ash and Tom get together to discuss what's going on in the world of iOS. Come for the news, stay for the banter. </itunes:summary>
+
+		<description>Each week, Ash and Tom get together to discuss what's going on in the world of iOS. Come for the news, stay for the banter. </description>
+
+		<itunes:owner>
+
+		<itunes:name>Ash Furrow</itunes:name>
+
+		<itunes:email>ash@ashfurrow.com</itunes:email>
+
+		</itunes:owner>
+
+		<itunes:image href="http://static.ashfurrow.com/notificationcenter/Icon.jpg" />
+
+		<itunes:category text="Technology">
+			<itunes:category text="Software How-To"/>
+			<itunes:category text="Tech News"/>
+		</itunes:category>
+
+		<itunes:new-feed-url>http://notificationceter.tv/rss.xml</itunes:new-feed-url>
+
+		<atom:link href="http://notificationcenter.tv/feed.rss" rel="self" type="application/rss+xml" />
+
+		
+
+		 	<item>
+
+				 <title>Episode 1 – Hello World</title>
+
+				 <itunes:author>Ash Furrow &amp; Tom Copley</itunes:author>
+
+				 <itunes:subtitle>Notification Center: Episode 1 – Hello World</itunes:subtitle>
+
+				 <itunes:summary>In our inaugural episode, Ash and Tom chat about structuring modern Objective-C, OmniGraphSketcher, and other happenings in the open source community. After chatting about the most important skills for developers to have nowadays, the discuss the future of Objective-C. </itunes:summary>
+
+				 <itunes:image href="http://static.ashfurrow.com/notificationcenter/Icon.jpg" />
+
+				 <enclosure url="http://static.ashfurrow.com/notificationcenter/episode1.m4a" length="55577703" type="audio/x-m4a" />
+
+				 <guid isPermaLink="true">http://static.ashfurrow.com/notificationcenter/episode1.m4a</guid>
+
+				 <pubDate>Sat, 01 Feb 2014 13:00:00 GMT</pubDate>
+
+				 <itunes:duration>01:23:03</itunes:duration>
+
+				 <itunes:keywords>ios,ipad,iphone,news,technology</itunes:keywords>
+
+				 <description>
+				 	In our inaugural episode, Ash and Tom chat about structuring modern Objective-C, OmniGraphSketcher, and other happenings in the open source community. After chatting about the most important skills for developers to have nowadays, the discuss the future of Objective-C. 
+				 </description>
+
+				 <content:encoded>
+				 	In our inaugural episode, Ash and Tom chat about structuring modern Objective-C, OmniGraphSketcher, and other happenings in the open source community. After chatting about the most important skills for developers to have nowadays, the discuss the future of Objective-C. 
+				 	&lt;ul&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="http://ashfurrow.com/blog/structuring-modern-objective-c"&gt;Structuring Modern Objective-C&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="https://github.com/graphsketcher/GraphSketcher"&gt;OmniGraphSketcher&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="http://bryan.io/post/74732337391/objective-c-libraries-and-unix-philosophy"&gt;Objective-C Libraries and Unix Philosophy&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="http://ashfurrow.com/blog/seven-deadly-sins-of-modern-objective-c"&gt;7 Deadly Sins of Modern Objective-C&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="https://www.mikeash.com/pyblog/"&gt;NSBlog by Mike Ash&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="http://support.apple.com/kb/HT4858"&gt;iCloud PhotoStream Specs&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="http://5by5.tv/hypercritical/14"&gt;A Dark Age of Objective-C&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="https://itunes.apple.com/ca/app/soulver/id413965349?mt=12&amp;uo=4&amp;at=1l3v6zC"&gt;Soulver&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="https://www.destroyallsoftware.com/talks/wat"&gt;Wat&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Directed_acyclic_graph"&gt;Directed Acyclic Graph&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/"&gt;Repairing the CocoaPods Specs Repo&lt;/a&gt;&lt;/li&gt;
+					 	
+					 		&lt;li&gt;&lt;a href="https://itunes.apple.com/ca/app/hatch/id718835727?mt=8&amp;uo=4&amp;at=1l3v6zC"&gt;Hatch&lt;/a&gt;&lt;/li&gt;
+					 	
+				 	&lt;/ul&gt;
+				 </content:encoded>
+
+			 </item>
+
+		 
+
+	</channel>
+
+</rss>

@@ -1,0 +1,21 @@
+---
+title: Notification Center Episodes
+---
+
+<% data.podcast.episodes.each do |post| %>
+	<section class="episode">
+		<h3 class="name">
+			<%= post.title %>
+		</h3>
+		<time>
+			<%= Date.parse(post.date).strftime('%A, %b %d') %>
+		</time>
+		<p>
+			<%= post.content %>
+		</p>
+		<audio controls preload="none" class="player">
+	 		<source src="<%= post.link %>" type="audio/mp4" />
+	 		<p>Your browser does not support HTML5 audio.</p>
+	 	</audio>
+	</section>
+<% end %>

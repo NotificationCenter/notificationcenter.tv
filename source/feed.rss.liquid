@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+	<channel>
+
+		<title>{{ data.podcast.title }}</title>
+
+		<link>{{ data.podcast.permalink }}</link>
+
+		<language>en</language>
+
+		<copyright>&#xA9; 2014 {{ data.podcast.description }}</copyright>
+
+		<itunes:subtitle>{{ data.podcast.description }}</itunes:subtitle>
+
+		<itunes:author>{{ data.podcast.author }}</itunes:author>
+
+		<itunes:keywords>{{ data.podcast.keywords }}</itunes:keywords>
+
+		<itunes:summary>{{ data.podcast.description }}</itunes:summary>
+
+		<description>{{ data.podcast.description }}</description>
+
+		<itunes:owner>
+
+		<itunes:name>{{ data.podcast.owner }}</itunes:name>
+
+		<itunes:email>{{ data.podcast.email }}</itunes:email>
+
+		</itunes:owner>
+
+		<itunes:image href="{{ data.podcast.icon }}" />
+
+		<itunes:category text="Technology" />
+
+		<itunes:category text="Software How-to" />
+
+		<itunes:new-feed-url>http://www.notificationceter.tv/rss.xml</itunes:new-feed-url>
+
+		{% for post in data.podcast.episodes limit:10 %}
+
+		 	<item>
+
+				 <title>{{ post.title }}</title>
+
+				 <itunes:author>Ash Furrow &amp; Tom Copley</itunes:author>
+
+				 <itunes:subtitle>{{ data.podcast.title }}: {{ post.title }}</itunes:subtitle>
+
+				 <itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+
+				 <itunes:image href="http://static.ashfurrow.com/notificationcenter/Icon.jpg" />
+
+				 <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+
+				 <guid isPermaLink="true">{{ post.link }}</guid>
+
+				 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }} GMT</pubDate>
+
+				 <itunes:duration>{{ post.duration }}</itunes:duration>
+
+				 <itunes:keywords>{{ data.podcast.keywords }}</itunes:keywords>
+
+			 </item>
+
+		 {% endfor %}
+
+	</channel>
+
+</rss>
