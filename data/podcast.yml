@@ -12,6 +12,25 @@ owner: Ash Furrow
 email: ash@ashfurrow.com
 author: Ash Furrow &amp; Tom Swizzlr
 episodes:
+
+- title: Episode 22 – We Won, They Lost, and I Hope They Feel Bad
+  date: Sun, 6 Dec 2015 08:00:00 GMT
+  file_length: 34499328
+  audio: http://cast.rocks/hosting/1957/episode22.mp3
+  duration: "0:36:56"
+  description: We're back, actually recording two weeks in a row! We chat about the Swift-going-open-source announcement obvs but also some stuff surrounding it, like Docker, its package manager, and the nerds getting mad about the end of "master/slave" as acceptable tech jargon. It's a real banger of an episode.
+  links:
+  - text: Docker-Swift
+    href: https://github.com/swiftdocker/docker-swift
+  - text: CocoaPods.app
+    href: https://github.com/CocoaPods/CocoaPods-app
+  - text: Apple's Ridiculous Open Source Marketing
+    href: https://twitter.com/Man0jN/status/673441019459985408
+  - text: Problematic Tech Jargon on Geek Feminism Wiki
+    href: http://geekfeminism.wikia.com/wiki/Problematic_tech_jargon
+  - text: Things Your Should Never Do, Part I
+    href: http://www.joelonsoftware.com/articles/fog0000000069.html
+
 - title: Episode 21 – They Lost the Repository
   date: Sun, 29 Nov 2015 08:00:00 GMT
   audio: http://cast.rocks/hosting/1957/episode21.mp3
