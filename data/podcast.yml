@@ -13,6 +13,20 @@ email: ash@ashfurrow.com
 author: Ash Furrow &amp; Tom Swizzlr
 episodes:
 
+- title: Episode 23 – Mystery Podcast Theatre 3000
+  date: Mon, 14 Dec 2015 08:00:00 GMT
+  file_length: 34092387
+  audio: http://cast.rocks/hosting/1957/episode23.mp3
+  duration: "0:35:24"
+  description: Oh boy, three weeks in a row! Do we meander with no real destination? Some would say yes. But it's all a part of life's journey, and we're happy to share it with you.
+  links:
+  - text: Protocols with Associated Types
+    href: https://speakerdeck.com/algal/protocols-with-associated-types-and-how-they-got-that-way
+  - text: Functional Swift Conference
+    href: http://2015.funswiftconf.com/
+  - text: Xcode Hardware Performance
+    href: https://github.com/ashfurrow/xcode-hardware-performance
+
 - title: Episode 22 – We Won, They Lost, and I Hope They Feel Bad
   date: Sun, 6 Dec 2015 08:00:00 GMT
   file_length: 34499328
